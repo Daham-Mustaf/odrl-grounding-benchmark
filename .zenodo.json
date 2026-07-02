@@ -1,0 +1,17 @@
+{
+  "creators": [
+    {"name": "Mustafa, Daham M.", "affiliation": "Fraunhofer FIT / RWTH Aachen University", "orcid": "0000-0003-1867-4428"},
+    {"name": "Lange, Christoph", "affiliation": "Fraunhofer FIT / RWTH Aachen University"},
+    {"name": "Guizzardi, Giancarlo", "affiliation": "University of Twente"},
+    {"name": "Collarana, Diego", "affiliation": "Fraunhofer FIT / Universidad Privada Boliviana"},
+    {"name": "Quix, Christoph", "affiliation": "Fraunhofer FIT / RWTH Aachen University"},
+    {"name": "Decker, Stefan", "affiliation": "Fraunhofer FIT / RWTH Aachen University"}
+  ],
+  "title": "Daham-Mustaf/odrl-ufol-grounding: FOIS 2026 camera-ready artifact",
+  "description": "Mechanized verification benchmark (Isabelle/HOL, Vampire, E, Z3), extended version with full proofs, and OWL profile (odrl-l:) for the FOIS 2026 paper \"What Does ODRL Mean? A Cross-Level Ontological Grounding of Permissions, Prohibitions, and Duties in UFO-L\".",
+  "license": "MIT",
+  "upload_type": "software",
+  "related_identifiers": [
+    {"identifier": "2606.24344", "relation": "isSupplementTo", "scheme": "arxiv"}
+  ]
+}
