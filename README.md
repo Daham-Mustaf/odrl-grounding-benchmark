@@ -4,7 +4,7 @@
 [![Vampire 5.0.1](https://img.shields.io/badge/Vampire-5.0.1-1f6feb)](https://github.com/vprover/vampire)
 [![Z3 4.8.12](https://img.shields.io/badge/Z3-4.8.12-1f6feb)](https://github.com/Z3Prover/z3)
 [![cvc5 1.3.4](https://img.shields.io/badge/cvc5-1.3.4-1f6feb)](https://github.com/cvc5/cvc5)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21137744.svg)](https://doi.org/10.5281/zenodo.21137744)
 
 Mechanized verification benchmark and OWL profile for the paper
 **["What Does ODRL Mean? A Cross-Level Ontological Grounding of
@@ -82,3 +82,37 @@ isabelle build -D odrl_isabelle_formalization/
 | Isabelle/HOL | n/a | 11 axioms + 23 lemmas | all pass |
 
 \* E skips the 3 satisfiability problems (E is refutation-complete only).
+
+## Citation
+
+If you use this benchmark or profile, please cite the paper:
+
+```bibtex
+@inproceedings{mustafa2026fois,
+  author    = {Mustafa, Daham M. and Lange, Christoph and Guizzardi, Giancarlo
+               and Collarana, Diego and Quix, Christoph and Decker, Stefan},
+  title     = {What Does {ODRL} Mean? {A} Cross-Level Ontological Grounding of
+               Permissions, Prohibitions, and Duties in {UFO-L}},
+  booktitle = {Proceedings of the 16th International Conference on Formal
+               Ontology in Information Systems (FOIS 2026)},
+  series    = {Frontiers in Artificial Intelligence and Applications},
+  publisher = {IOS Press},
+  address   = {Vitória, Brazil},
+  year      = {2026},
+  note      = {To appear. Preprint: arXiv:2606.24344 [cs.LO]}
+}
+```
+
+To cite this repository (benchmark, generators, Isabelle formalization, and profile) directly:
+
+```bibtex
+@software{mustafa_odrl_ufol_grounding,
+  author    = {Mustafa, Daham M. and Lange, Christoph and Guizzardi, Giancarlo
+               and Collarana, Diego and Quix, Christoph and Decker, Stefan},
+  title     = {{Daham-Mustaf/odrl-ufol-grounding: Mechanized verification benchmark and OWL profile for ODRL grounded in UFO-L}},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21137744},
+  url       = {https://doi.org/10.5281/zenodo.21137744}
+}
+```
