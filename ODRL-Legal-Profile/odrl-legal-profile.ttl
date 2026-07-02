@@ -8,7 +8,7 @@
 @prefix vann:   <http://purl.org/vocab/vann/> .
 
 odrl-l: a owl:Ontology ;
-    dct:title       "ODRL Deontic-Legal Profile"@en ;
+    dct:title       "ODRL Legal Profile"@en ;
     dct:description """OWL approximation of the UFO-L grounding of ODRL 2.2.
         Surfaces 8 legal positions (Table 1) from the 2 positions implicit
         in ODRL evaluators. 15 classes, 8 properties.
