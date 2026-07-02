@@ -7,7 +7,7 @@
     {"name": "Quix, Christoph", "affiliation": "Fraunhofer FIT / RWTH Aachen University"},
     {"name": "Decker, Stefan", "affiliation": "Fraunhofer FIT / RWTH Aachen University"}
   ],
-  "title": "Daham-Mustaf/odrl-ufol-grounding: FOIS 2026 camera-ready artifact",
+  "title": "Daham-Mustaf/odrl-ufol-grounding: Mechanized verification benchmark and OWL profile for ODRL grounded in UFO-L",
   "description": "Mechanized verification benchmark (Isabelle/HOL, Vampire, E, Z3), extended version with full proofs, and OWL profile (odrl-l:) for the FOIS 2026 paper \"What Does ODRL Mean? A Cross-Level Ontological Grounding of Permissions, Prohibitions, and Duties in UFO-L\".",
   "license": "MIT",
   "upload_type": "software",
